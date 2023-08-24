@@ -19,8 +19,7 @@
 // Output: [-1]
 // Explanation: There are no elements to the right of index 0.
 
-function replaceElements(arr: number[]): number[] {
-    
-}
+// Constraints:
 
-console.log(replaceElements([17, 18, 5, 4, 6, 1]));
+// 1 <= arr.length <= 104
+// 1 <= arr[i] <= 105
